@@ -1,0 +1,4 @@
+This is a server file,
+this should be sent to the client when performing a GET operation..!!
+
+...
